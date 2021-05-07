@@ -1,3 +1,3 @@
 # Richards-Law
 A website for Richards and Richards Law group
-Built with React
+Built with React, Redux
