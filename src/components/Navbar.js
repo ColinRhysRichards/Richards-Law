@@ -12,7 +12,7 @@ const Div = styled.div`
 ` 
 const Logo = styled.img`
     height: auto;
-    width: 20%;
+    width: 100px;
     padding: 13px 0px;
     max-width: 600px;
     height: auto;
